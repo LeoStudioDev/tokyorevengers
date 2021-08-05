@@ -1,0 +1,28 @@
+{
+  "ads_config": {
+    "ad_waterfall": [
+      "admob",
+      "unity"
+    ],
+    "ad_time": 40,
+    "ad_spacing":2,
+    "ad_model": [
+      {
+        "name": "admob",
+        "app_id": "ca-app-pub-5143673164319330~8844866724",
+        "banner_id": "ca-app-pub-5143673164319330/2087886683",
+        "popup_id": "ca-app-pub-5143673164319330/9774805010",
+        "reward_id": "ca-app-pub-3940256099942544/5224354917"
+      },
+       {
+        "name": "unity",
+        "app_id": "4178047",
+        "banner_id": "Banner_Android",
+        "popup_id": "Interstitial_Android",
+        "reward_id": "Rewarded_Android"
+      }
+    ]
+  },
+  "fanpage": "https://www.facebook.com/groups/1905846616249110",
+  "teechip": "https://www.animestoresugoi.com/"
+}
